@@ -34,7 +34,7 @@ int main() {
             continue;
         }
 
-        for (int j = 0; j < 26 && ncs < 2; ++j) {
+        for (int j = 0; j < 26; ++j) {
             if (sum[j][r]-sum[j][l-1] > 0) {
                 ++ncs;
             }
