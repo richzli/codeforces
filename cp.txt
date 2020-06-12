@@ -1,0 +1,11 @@
+list of problems to upsolve
+
+ed84 - E F
+629d3 - E F
+
+algorithms to learn:
+
+segment tree sweep line
+convex hull (again)
+min cost max flow
+FFT
